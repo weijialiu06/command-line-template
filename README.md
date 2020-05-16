@@ -36,5 +36,3 @@ Commands:
   compress                     description of compress command
   clear                        description of clear command
 ```
-
-# change
